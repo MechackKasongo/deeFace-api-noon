@@ -3,3 +3,5 @@ flask-cors
 deepface
 opencv-python
 matplotlib
+tf-keras
+tensorflow==2.12
